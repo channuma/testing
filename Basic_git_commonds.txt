@@ -7,3 +7,7 @@ git remote add origin https://github.com/channuma/new_testing.git
 git push -u origin main
 
 this change has been done from child branch 
+
+add the changes
+
+another changes has been added
